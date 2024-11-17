@@ -1,7 +1,7 @@
 # Tailutils
 ![Coverage](https://img.shields.io/badge/Coverage-100.0%25-brightgreen)
 
-[![Go](https://github.com/drewwalton19216801/tailutils/actions/workflows/go.yml/badge.svg)](https://github.com/drewwalton19216801/tailutils/actions/workflows/go.yml)
+[![Go](https://github.com/Tailsecurity/tailutils/actions/workflows/go.yml/badge.svg)](https://github.com/Tailsecurity/tailutils/actions/workflows/go.yml)
 
 ## What is `tailutils`?
 
@@ -26,7 +26,7 @@ These utilities are particularly useful for applications that need to:
 You can add `tailutils` to your Go project by running:
 
 ```sh
-go get github.com/drewwalton19216801/tailutils
+go get github.com/tailsecurity/tailutils
 ```
 
 ### Usage Example
@@ -39,7 +39,7 @@ package main
 import (
     "fmt"
     "log"
-    "github.com/drewwalton19216801/tailutils"
+    "github.com/tailsecurity/tailutils"
 )
 
 func main() {
@@ -106,10 +106,10 @@ Managing network interfaces and parsing IP ranges can be intricate and error-pro
 
 ## Projects using `tailutils`
 
-- [Padserve](https://github.com/drewwalton19216801/padserve) - The server component of a secure and private messaging system for Tailscale users.
-- [Padclient](https://github.com/drewwalton19216801/padclient) - The client component of a secure and private messaging system for Tailscale users.
+- [Padserve](https://github.com/tailsecurity/padserve) - The server component of a secure and private messaging system for Tailscale users.
+- [Padclient](https://github.com/tailsecurity/padclient) - The client component of a secure and private messaging system for Tailscale users.
 
-Want your project listed here? [Submit a Pull Request](https://github.com/drewwalton19216801/tailutils/pulls)!
+Want your project listed here? [Submit a Pull Request](https://github.com/tailsecurity/tailutils/pulls)!
 
 ## Contributing
 
